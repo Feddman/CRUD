@@ -1,0 +1,13 @@
+body {
+	font-family: arial;
+	background: #D7F2F2;
+}
+
+fieldset {
+	width: 300px;
+}
+
+.input {
+	width: 50%;
+}
+
